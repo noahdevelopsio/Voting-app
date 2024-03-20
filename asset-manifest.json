@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/voting-app/static/css/main.d6b75913.css",
-    "main.js": "/voting-app/static/js/main.1e770317.js",
+    "main.css": "/voting-app/static/css/main.4b6acea9.css",
+    "main.js": "/voting-app/static/js/main.e611fd22.js",
     "static/js/787.62ea5e01.chunk.js": "/voting-app/static/js/787.62ea5e01.chunk.js",
     "static/media/c.jpg": "/voting-app/static/media/c.e6c55a25e38c00a032dc.jpg",
     "static/media/b.png": "/voting-app/static/media/b.f9365c003f0248be2906.png",
@@ -64,12 +64,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/voting-app/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/voting-app/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/voting-app/index.html",
-    "main.d6b75913.css.map": "/voting-app/static/css/main.d6b75913.css.map",
-    "main.1e770317.js.map": "/voting-app/static/js/main.1e770317.js.map",
+    "main.4b6acea9.css.map": "/voting-app/static/css/main.4b6acea9.css.map",
+    "main.e611fd22.js.map": "/voting-app/static/js/main.e611fd22.js.map",
     "787.62ea5e01.chunk.js.map": "/voting-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6b75913.css",
-    "static/js/main.1e770317.js"
+    "static/css/main.4b6acea9.css",
+    "static/js/main.e611fd22.js"
   ]
 }
